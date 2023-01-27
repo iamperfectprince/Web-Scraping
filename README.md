@@ -34,6 +34,7 @@ Images will downlod in public folder name interpol
  
   wil naming fname of person on website
 
+Note :- Some images wich is downloaded in my pc i have make .zip file which have images 
 
 Instructon and step for Scraping:
 - first install selenium and python in PC
